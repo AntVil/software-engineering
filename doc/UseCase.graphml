@@ -36,7 +36,7 @@
           <y:Geometry height="74.0" width="44.0" x="1127.0000000000002" y="187.30399999999992"/>
           <y:Fill color="#800080" color2="#FF9900" transparent="false"/>
           <y:BorderStyle color="#FFCC00" type="line" width="7.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="19.92626953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="51.67724609375" x="-3.838623046875" xml:space="preserve" y="78.0">Ersteller<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="19.92626953125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="40.84814453125" x="1.575927734375" xml:space="preserve" y="78.0">Admin<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:ModelParameter><y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="4.0" upX="0.0" upY="-1.0"/></y:ModelParameter></y:NodeLabel>
           <y:SVGNodeProperties usingVisualBounds="false"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="1"/>
@@ -46,7 +46,6 @@
     </node>
     <node id="n2" yfiles.foldertype="group">
       <data key="d4" xml:space="preserve"/>
-      <data key="d5"/>
       <data key="d6">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
@@ -209,7 +208,6 @@ steuerung<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:
           </data>
         </node>
         <node id="n2::n11" yfiles.foldertype="group">
-          <data key="d5"/>
           <data key="d6">
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
@@ -237,7 +235,6 @@ steuerung<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:
           </data>
           <graph edgedefault="directed" id="n2::n11:">
             <node id="n2::n11::n0">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
                   <y:Geometry height="1.0" width="1.3279999999999745" x="1003.172" y="441.8039999999999"/>
@@ -256,7 +253,6 @@ steuerung<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:
               </data>
             </node>
             <node id="n2::n11::n1">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
                   <y:Geometry height="1.0" width="1.0" x="1064.5000000000002" y="441.8039999999999"/>
@@ -275,7 +271,6 @@ steuerung<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:
               </data>
             </node>
             <node id="n2::n11::n2">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
                   <y:Geometry height="1.0" width="1.0" x="1003.5" y="471.8039999999999"/>
@@ -294,7 +289,6 @@ steuerung<y:LabelModel><y:SmartNodeLabelModel distance="4.0"/></y:LabelModel><y:
               </data>
             </node>
             <node id="n2::n11::n3">
-              <data key="d5"/>
               <data key="d6">
                 <y:ShapeNode>
                   <y:Geometry height="1.0" width="1.0" x="1064.5000000000002" y="471.8039999999999"/>
